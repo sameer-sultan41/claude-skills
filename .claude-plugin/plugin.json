@@ -1,0 +1,11 @@
+{
+  "name": "claude-skills",
+  "description": "A growing collection of Claude Code skills for PR/review workflows and beyond.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sameer Sultan",
+    "url": "https://github.com/sameer-sultan41"
+  },
+  "homepage": "https://github.com/sameer-sultan41/claude-skills",
+  "license": "MIT"
+}

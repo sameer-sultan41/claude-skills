@@ -1,0 +1,17 @@
+{
+  "name": "sameer-claude-skills",
+  "owner": {
+    "name": "Sameer Sultan",
+    "url": "https://github.com/sameer-sultan41"
+  },
+  "description": "Claude Code skills for driving PR review cycles and other dev workflows.",
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "source": "./",
+      "description": "A growing collection of Claude Code skills for PR/review workflows and beyond.",
+      "category": "development",
+      "keywords": ["git", "github", "pull-request", "code-review", "workflow"]
+    }
+  ]
+}
